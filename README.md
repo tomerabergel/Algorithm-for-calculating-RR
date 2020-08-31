@@ -1,4 +1,4 @@
-# Algorithm-for-calculating-RR
+# Algorithm for calculating RR (convertion from ECG values)
 A smart and efficient general algorithm for calculating RR
 According to ECG values
 
